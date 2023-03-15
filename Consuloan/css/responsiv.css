@@ -1,0 +1,20 @@
+@media screen and (max-width:960px) {
+      header{
+          position: initial;
+      }
+      .head1{
+          display: none;
+      }
+      .head1 a{
+          color: black;
+      }
+       .head1 address{
+           color: black;
+       }
+        .form-group a{
+           color: black;
+       } 
+       .head2 .form-group .f1{
+           color: black;
+       }
+}

@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.head{
+  width: 35%;
+  margin: 10px auto;
+  background-color: brown;
+}
+ h1{
+  
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.part{
+    display: flex;
+    margin-top: 50px;
+}
+.part1{
+    width: 50%;
+    padding: 10px;
+}
+.part2{
+    width: 50%;
+    padding: 10px;
+}
+.fm{
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.fm input{
+    padding: 8px;
+    width: 60%;
+}
+.fm label{
+    font-size: 25px;
+}
+.fm1 input{
+    width: 5%;
+  margin: 10px;
+}
+.fm1{
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.fm1 label{
+    padding: 10px;
+    font-size: 25px;
+}
+.fm2{
+    padding: 20px 14px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fm2 [for=mname]{
+    font-size: 25px;
+}
+.lb1{
+    text-align: center;
+}
+.lb1 label{
+    font-size: 20px;
+    padding: 0 10px;
+}
+.lb2 label{
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+.fm3{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+.fm3 label{
+    font-size: 25px;
+}
+.fm3 input{
+    padding: 7px;
+    width: 60%;
+}
+.fm4{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.fm4 label{
+    font-size: 25px;
+}
+.fm4 input{
+    width: 60%;
+    padding: 7px;
+}
+.fm5{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+.fm5 input{
+    width: 60%;
+    padding: 7px;
+}
+.fm5 label{
+    font-size: 25px;
+}
+.fm6{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.fm6 input{
+    width: 60%;
+    padding: 7px;
+}
+.fm6 label{
+    font-size: 25px;
+}
+.fm7{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+.fm7 input{
+    width: 60%;
+    padding: 7px;
+}
+.fm7 label{
+    font-size: 25px;
+}
+.fm8{
+    font-size: 25px;
+    margin: 20px 0;
+    padding: 15px 0;
+}
+.fm9{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.fm9 label{
+    font-size: 25px;
+}
+.fm9 input{
+    width: 60%;
+    padding: 7px;
+}
+.fm10{
+    display: flex;
+    
+    justify-content: space-between;
+}
+.fm10 label{
+    font-size: 25px;
+}
+.fmab input{
+  margin-left: 170px;
+  padding:  8px 0;
+  width: 30%;
+}
+.fmcd input{
+    width: 57%;
+    padding: 8px;  
+}
+.fm11{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 5px;
+}
+.fm11 label{
+    font-size: 25px;
+}
+.fm11 input{
+    width: 60%;
+    padding: 7px;
+}
+.fm12{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+}
+.fm12 label{
+    font-size: 25px;
+}
+.fm12 input{
+    width: 60%;
+    padding: 7px;
+}
+.pm1{
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.pm1 label{
+    font-size: 25px;
+}
+.pm1 input{
+    width: 60%;
+    padding: 8px;
+}
+
+.pm8{
+    font-size: 25px;
+    margin-top: 145px;
+    padding: 15px 0;
+}
+.pm9{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.pm9 label{
+    font-size: 25px;
+}
+.pm9 input{
+    width: 60%;
+    padding: 7px;
+}
+.pm10{
+    display: flex;
+    justify-content: space-between;
+}
+.pm10 label{
+    font-size: 25px;
+}
+.pmab input{
+  margin-left: 170px;
+  padding:  8px 0;
+  width: 30%;
+}
+.pmcd input{
+    width: 57%;
+    padding: 8px;  
+}
+.pm11{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 5px;
+}
+.pm11 label{
+    font-size: 25px;
+}
+.pm11 input{
+    width: 60%;
+    padding: 7px;
+}
+.pm12{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+}
+.pm12 label{
+    font-size: 25px;
+}
+.pm12 input{
+    width: 60%;
+    padding: 7px;
+}
+.con{
+    display: flex;
+    padding: 10px 10px;
+}
+.con blockquote{
+    padding: 0 10px;
+}
+.con input{
+    width: 10%;
+}
